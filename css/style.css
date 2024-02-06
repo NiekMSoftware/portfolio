@@ -57,3 +57,9 @@ header ul li a:active
     color: #2b1055;
     border-radius: 20px;
 }
+
+.carousel-caption {
+    width: auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
